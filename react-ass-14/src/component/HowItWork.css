@@ -1,0 +1,49 @@
+
+.container{
+    height: 650px;
+}
+#plan{
+    text-align: center;
+}
+.icon{
+    text-align: center;
+    margin-left: 220px;
+    margin-right: 300px;
+}
+#leftimg{
+    float: left;
+    
+}
+#centerimg{
+    float: left;
+    margin-left: 140px;
+}
+#rightimg{
+    float: right;
+}
+#howdiv{
+    text-align: center;
+    margin-top: 200px;
+}
+#soptleft{
+    float: left;
+    margin-left: 100px;
+}
+#soptcenter{
+    float: left;
+    margin-left: 30px;
+
+}
+#soptright{
+    float: right;
+    margin-right: 10px;
+
+}
+#btnget{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(241, 33, 68);
+    border-color: rgb(241, 33, 68);
+    border-radius: 5px;
+    color: white;
+}

@@ -1,0 +1,48 @@
+
+
+#btnmain{
+    text-align: center;
+    padding: 80px;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center
+}
+#btnhelp{
+    text-align: center;
+    padding: 10px;
+}
+#hbtn{
+    width: 350px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: black;
+    outline: none;
+}
+#hbtn:hover{
+    background-color: rgb(236, 221, 221);
+    outline: none;
+}
+#backget{
+    width: 100%;
+    background-image: url("./Res/landing-bg-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 200px;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    text-align: center;
+}
+h6{
+    padding: 60px;
+}
+#btnget{
+    outline: none;
+}
+#btnget:hover{
+    background-color: rgb(241, 28, 28);
+}
